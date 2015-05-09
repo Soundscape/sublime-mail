@@ -2,7 +2,7 @@ lib = require '../'
 
 describe 'Mailer test suite', ()  ->
   create = () ->
-    new lib.Mailer('EYIeIGBo1DOZnzBzvRFR3w')
+    new lib.Mailer('--APIKEY--')
 
   it 'should construct an instance', () ->
     instance = create()
