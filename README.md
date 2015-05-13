@@ -1,2 +1,2 @@
 # sublime-core
-Core object types
+Provides isomorphic mail functionality through Mandrill.
